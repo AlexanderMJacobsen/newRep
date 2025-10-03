@@ -12,5 +12,5 @@ public class Countries {
         return "Welcome to the countries page!!!";
     }
 
-    
+
 }
